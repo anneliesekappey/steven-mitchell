@@ -1,12 +1,12 @@
 import styled from 'styled-components'
 
 export const Nav = styled.nav`
-  background-color: #193AGF;
+  background-color: orange;
   display: flex;
   align-items: center;
   height: 100px;
   margin: 5px;
-  box-shadow: 0px 3px 3px #11224d;
+  box-shadow: 0px 3px 3px orangered;
   font-family: 'Montserrat';
   font-size: 20px;
   justify-content: center;
@@ -26,7 +26,7 @@ export const HomeIcon = styled.li`
   cursor: pointer;
   transition: all 0.5s;
   &:hover {
-    border: 2px solic #11224d;
+    border: 2px solid orangered;
   }
 `
 
