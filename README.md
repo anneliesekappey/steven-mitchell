@@ -1,6 +1,6 @@
 Hi everyone! Welcome to The Queen Vee Club! 
 
-So, let me start by saying that Steven Mitchell is an absolute legend. His playing for ballet classes in nearly every single professional class in New York City is legendary to begin wit - and that would be only scratching the surface of his endless talent. Steven Mitchell has recorded MANY albums to accompany ballet classes, children, adult and professional. You'd be pressed to find a ballet instructor in the United States who's never used one of his albums for his class. Many of those were recorded in collaboration with equally legendary, late David Howard. 
+So, let me start by saying that Steven Mitchell is an absolute legend. His playing for ballet classes in nearly every single professional class in New York City is legendary to begin with - and that would be only scratching the surface of his endless talent. Steven Mitchell has recorded MANY albums to accompany ballet classes - children's, adults' and professionals'. You'd be pressed to find a ballet instructor in the United States who's never used one of his albums for their class. Many of those albums were recorded in collaboration with the equally legendary, late David Howard. 
 
 Mr. Mitchell could also be found as Music Rehearsal Director at the Metropolitan Opera House for the better part of a decade. This meant that likely every production you went to see at The Met had Steven Mitchell's input. I'm telling you, the man is a LEGEND! 
 
