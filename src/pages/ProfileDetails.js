@@ -8,7 +8,7 @@ export const ProfileDetails = () => {
   const { _id } = useParams()
 
   useEffect(() => {
-    const getProfileDetails = async () => {
+    const getProfileDetails = async (_id) => {
       const result = await axios.get(
         `https://shy-gray-donkey-slip.cyclic.app/datingprofile/${_id}`
       )
