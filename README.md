@@ -4,7 +4,7 @@ So, let me start by saying that Steven Mitchell is an absolute legend. His playi
 
 Mr. Mitchell could also be found as Music Rehearsal Director at the Metropolitan Opera House for the better part of a decade. This meant that likely every production you went to see at The Met had Steven Mitchell's input. I'm telling you, the man is a LEGEND! 
 
-On his spare time, he writes and rehearses comedic Off-Off-Broadway productions. One of them is the darling musical "Date Me, Do Me, Dump Me". DMDMDM is a show centered around four female characters who have had their share of, er, let's call them "dating difficulties". They laugh about it, drink over it, sing together in unison as they each tell horro tales of dates' past. The audience is invited to participate by sharing its own dating woes. Everyone has fun! Audiences in New York were delighted and loads of people enjoyed themselves in the summer of 2019, when the show ran at the Broadway Comedy Club all summer long! 
+On his spare time, he writes and rehearses comedic Off-Off-Broadway productions. One of them is the darling musical "Date Me, Do Me, Dump Me". DMDMDM is a show centered around four female characters who have had their share of, er, let's call them "dating difficulties". They laugh about it, drink over it, sing together in unison as they each tell horror tales of dates' past. The audience is invited to participate by sharing its own dating woes. Everyone has fun! Audiences in New York were delighted and loads of people enjoyed themselves in the summer of 2019, when the show ran at the Broadway Comedy Club all summer long! 
 
 If you weren't there, worry not! This is these divas' club, and you're definitely invited. :) Have FUN! 
 
